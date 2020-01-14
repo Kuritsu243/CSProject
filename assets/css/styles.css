@@ -1,0 +1,46 @@
+.navbar-light .navbar-brand {
+}
+
+.form-group.text-capitalize.text-center.text-body input {
+  width: 300px;
+}
+
+.form-group.text-capitalize.text-center.text-body select {
+  width: 300px;
+}
+
+.addTable {
+  display: table;
+}
+
+.addLabel {
+  display: table-cell;
+}
+
+.addSelect {
+  display: table-cell;
+}
+
+.addInput {
+  display: table-cell;
+}
+
+
+.formSection {
+  display: table-row;
+}
+
+.login {
+}
+
+.input-group-center {
+  text-align: center;
+}
+
+
+.updateForm input {
+  width: 50%;
+}
+.updateForm select {
+  width: 50%;
+}
